@@ -157,6 +157,6 @@ map Y y$
 nnoremap <C-L> :nohl<CR><C-L>
 
 " add yy as copy to system clipboard, paste from system clipboard (works on
-" ubuntu 20)
+" ubuntu 20 with vim-gtk3)
 set clipboard=unnamedplus
 "------------------------------------------------------------
