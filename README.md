@@ -1,2 +1,2 @@
-# vim_basic
+# vim_template
 just some vim configurations
