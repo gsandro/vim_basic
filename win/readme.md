@@ -25,5 +25,5 @@ tmux
 - ctl+b c to open new window
 - ctrl+b n to switch to next window
 - ctrl+b p to switch to previous window
-- use all vim and powershell features, have fun!
+- use vim and powershell features, have fun!
 
