@@ -1,6 +1,7 @@
 # WinSetup
 
-this document should describe how2setup nice vim/tmux/powershell environment in WINDOWS
+this document should describe how2setup nice vim/tmux/powershell environment in win10
+vim for windows
 
 | Revision  | Date          | Author                | Change Log        |
 | ---       | ---           | ---                   | ---               |
