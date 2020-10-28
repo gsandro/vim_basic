@@ -1,2 +1,2 @@
-mv ./cfg/vimrc_home ~/.vimrc
-mv ./vim ~/.vim
+cp ./cfg/vimrc_home ~/.vimrc
+cp ./vim ~/.vim
